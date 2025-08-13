@@ -1,2 +1,12 @@
 # ATM-machine
-This is a Java program that works like a basic ATM. You can log in with a password, check your balance, deposit money, and withdraw money depending on your card type.
+# ATM Machine (Java)
+
+A simple Java program that simulates basic ATM operations:
+- Login with password (3 attempts)
+- Check balance
+- Deposit money
+- Withdraw money with card-type limits
+
+## How to Run
+1. Compile: `javac ATM.java`
+2. Run: `java ATM`
